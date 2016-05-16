@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/web_project/controller/TcpIpServer.java=UTF-8
+encoding//src/web_project/controller/loginController.java=UTF-8
+encoding//src/web_project/controller/mainRoomController.java=UTF-8
+encoding//src/web_project/home/AccountDAO.java=UTF-8
+encoding//src/web_project/home/RoomDAO.java=UTF-8
+encoding//src/web_project/home/SensorDAO.java=UTF-8
